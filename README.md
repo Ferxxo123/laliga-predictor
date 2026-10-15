@@ -2,7 +2,7 @@
 
 Predicts the probability of a home win, a draw or an away win for any La Liga match, using only past results. It is compared against the bookmaker's odds, the hardest baseline in football prediction.
 
-**Demo:** _add the Streamlit link here after deploying_
+**Demo:** https://laliga-predictor-zoibach3tyc8bcunadipdm.streamlit.app/#probabilities
 
 ## Results
 
